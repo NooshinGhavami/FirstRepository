@@ -1,0 +1,1 @@
+This folder contains the python file for the guidance/navigation of the ultrasound probe from the iFind project towards the correct standard plane.
